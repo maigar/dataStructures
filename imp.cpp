@@ -1,5 +1,4 @@
-#include "queue.hpp"
-#include "stack.hpp"
+#include "ds.hpp"
 #include <string>
 
 using namespace std;
